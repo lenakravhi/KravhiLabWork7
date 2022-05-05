@@ -1,6 +1,6 @@
 #!/bin/bash
   x=5
-  while [ true ]
+  while [[ 1==1 ]]
    do
-     x=$((x+5))
+     x=x+5
   done
